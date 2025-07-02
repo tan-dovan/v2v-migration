@@ -39,5 +39,10 @@ $ https://developer.broadcom.com/sdks/vmware-virtual-disk-development-kit-vddk/l
   $ sudo make install
   $ ls /usr/local/lib/nbdkit/plugins/nbdkit-vddk-plugin.so
   $ nbdkit --dump-config | grep plugindir
-  
+
+Libguest upgrade
+https://gitlab.com/nbdkit/libnbd
+https://ocaml.org/install#linux_mac_bsd
+hivex  stuff
+
 </code>
